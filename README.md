@@ -4,4 +4,3 @@ This is an implementation of an N-gram model using an amharic dataset. It contai
 | Name | ID |
 | --- | --- |
 | Simreteab Mekbib | GSR/4500/17 |
-| Nahom Senay | GSR/4848/17 |
